@@ -1,0 +1,1 @@
+select * from results where "IS_ASCII" = 1;
