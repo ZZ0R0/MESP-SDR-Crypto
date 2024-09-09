@@ -206,4 +206,11 @@ def brute_force(ciphered, partial_key, num_octets, alphabet):
 
 résultat => 
 
-![](bruteforce_results.csv)
+| Field       | Value                             |
+|-------------|-----------------------------------|
+| char0       | j                                 |
+| char1       | o                                 |
+| char2       | u                                 |
+| char3       | e                                 |
+| IS_ASCII    | 1                                 |
+| UNCIPHERED  | DES n'est plus sur de nos jours!  |
