@@ -1,4 +1,7 @@
 # MESP-SDR-Crypto
+
+> **📦 Archived (read-only).** Coursework — cryptography exercises (AES-256 + IV handling in Python, with a written explanation). Simplon "Crypto 01". Note: a Python virtualenv was committed, so the repo is heavier than its source. Kept for reference; not maintained.
+
 Simplon Crypto 01
 
 
